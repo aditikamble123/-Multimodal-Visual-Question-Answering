@@ -39,6 +39,9 @@ ViLT processes image patches and text tokens jointly without relying on CNN-base
 - **Pillow**
 
 ---
+##ACCESS:
+https://a0ca76b97529e74ad6.gradio.live/
+---
 
 ## 🚀 Installation & Usage
 
@@ -94,3 +97,4 @@ Aditi K
 Engineering Student | AI & ML Enthusiast
 
 Focused on Multimodal AI, GenAI, and Applied ML Projects
+
