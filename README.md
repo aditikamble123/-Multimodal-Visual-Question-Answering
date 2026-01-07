@@ -26,7 +26,8 @@ ViLT processes image patches and text tokens jointly without relying on CNN-base
 
 ## 🖼️ Application Interface
 
-![alt text](<Screenshot (999).png>)
+<img width="1920" height="885" alt="Screenshot (999)" src="https://github.com/user-attachments/assets/d9babea2-2c05-4edb-88a9-532973f32317" />
+
 
 ---
 
@@ -91,4 +92,5 @@ Support for multiple answers
 👩‍💻 Author
 Aditi K
 Engineering Student | AI & ML Enthusiast
+
 Focused on Multimodal AI, GenAI, and Applied ML Projects
