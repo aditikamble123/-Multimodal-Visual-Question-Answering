@@ -37,4 +37,5 @@ with gr.Blocks(title="Visual Question Answering") as demo:
         outputs=answer_output
     )
 
-demo.launch()
+demo.launch(share=True)
+
